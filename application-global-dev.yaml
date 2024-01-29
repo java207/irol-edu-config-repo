@@ -4,3 +4,6 @@ spring:
     url: jdbc:mysql://localhost:3306/irol_edu?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=Asia/Shanghai
     username: root
     password: zhouliang
+config:
+  dev:
+    param: abc
