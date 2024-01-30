@@ -6,4 +6,4 @@ spring:
     password: zhouliang
 config:
   dev:
-    param: 123qwetyu
+    param: abc123qwetyu
